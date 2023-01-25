@@ -1,0 +1,5 @@
+package com.app.mohitservice.impl;
+
+public class StudentServiceImpl {
+
+}

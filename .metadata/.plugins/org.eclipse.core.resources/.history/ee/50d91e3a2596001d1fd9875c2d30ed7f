@@ -1,0 +1,5 @@
+package com.app.mohit.exception;
+
+public class StudentNotFoundException {
+
+}

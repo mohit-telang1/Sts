@@ -1,0 +1,5 @@
+package com.app.mohit.handler;
+
+public class MyCustomExceptionHandler {
+
+}
